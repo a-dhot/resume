@@ -4,11 +4,33 @@ body {
 
 * {
     font-family: 'Courier New', Courier, monospace
+    
 
 }
 
 h1 {
-    font-weight: 1
-    
+    font-weight: 1;
+    font-size: 35px;
     
 }
+
+.name {
+    margin-left: 15px;
+
+}
+
+hr {
+    border: 2.5px solid rgb(0, 0, 0);
+}
+.leftPanel {
+    width: 27%;
+    height: 100%;
+    background-color: #a9abc7;
+    padding:0.5em;
+  }
+
+  .rightPanel {
+    width: 73%;
+    padding: 0.5em;
+    height: 100%;
+  }
