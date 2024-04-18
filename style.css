@@ -11,7 +11,19 @@ body {
 h1 {
     font-weight: 1;
     font-size: 35px;
-    
+    text-align: center;
+}
+
+.titles {
+    font-size: 20px;
+    font-weight: 550;
+    text-align: center;
+
+}
+
+.titleinfo {
+    font-size: 12px;
+    text-align: left;
 }
 
 .name {
@@ -21,16 +33,18 @@ h1 {
 
 hr {
     border: 2.5px solid rgb(0, 0, 0);
+    border: 0;
+    border-top: 3px double #8c8c8c;
 }
 .leftPanel {
     width: 27%;
     height: 100%;
-    background-color: #a9abc7;
-    padding:0.5em;
+    background-color: #c8ccff;
+    padding:0.5cm;
   }
 
   .rightPanel {
     width: 73%;
-    padding: 0.5em;
+    padding: 0.5cm;
     height: 100%;
   }
