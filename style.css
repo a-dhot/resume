@@ -91,6 +91,13 @@ hr {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
+
+  p:hover {
+
+    font-weight: bold;
+   
+  }
+
  .name {
     text-align: left;
 
